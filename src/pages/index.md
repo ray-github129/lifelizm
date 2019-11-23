@@ -7,8 +7,7 @@ subheading: Find just items fro you
 mainpitch:
   title: 想い
   description: |
-    こだわりの強い僕が時間をかけて見つけた「もの、こと」を紹介します。参考になれば幸いです。  
-    # 時には、頭悪いこともあるのでご愛嬌を。
+    こだわりの強い僕が時間をかけて見つけた「もの、こと」を紹介します。参考になれば幸いです。<br/># 時には、頭悪いこともあるのでご愛嬌を。
 description: a
 intro:
   blurbs:
