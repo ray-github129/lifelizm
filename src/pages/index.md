@@ -7,7 +7,8 @@ subheading: Find just items fro you
 mainpitch:
   title: 想い
   description: |
-    こだわりの強い僕が時間をかけて見つけた「もの、こと」を紹介します。参考になれば幸いです。<br/># 時には、頭悪いこともあるのでご愛嬌を。
+    こだわりの強い僕が時間をかけて見つけた「もの、こと」を紹介します。参考になれば幸いです。  
+    時には、頭悪いこともあるのでご愛嬌を。
 description: a
 intro:
   blurbs:
@@ -17,7 +18,7 @@ intro:
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
-        availability.
+        availability.*A*
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -45,7 +46,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: メイン
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
