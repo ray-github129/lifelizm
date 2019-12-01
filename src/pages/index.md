@@ -1,27 +1,28 @@
 ---
 templateKey: index-page
-title: ちょうど良いを探すサイト
+title: Aoyama-LifeBase
 image: /img/top-main.jpg
-heading: a
-subheading: Find just items for you
+heading: Comming soon
+subheading: 自由を求めるエンジニアブログ
 mainpitch:
-  title: 想い
-  description: |
-    こだわりの強い僕が時間をかけて見つけた「もの、こと」を紹介します。参考になれば幸いです。  
-    時には、頭悪いこともあるのでご愛嬌を。
-description: a
+  title: Comming soon
+  description: Comming soon
+description: Comming soon
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: Comming soon
+      text: Skill
     - image: /img/coffee-gear.png
-      text: Comming soon
+      text: Hoby
     - image: /img/tutorials.png
-      text: |
-        Comming soon
+      text: Trip
     - image: /img/meeting-space.png
-      text: Comming soon
-  heading: Comming soon
+      text: Othor
+    - image: /img/coffee-gear.png
+      text: Buy
+    - image: /img/coffee-gear.png
+      text: Things
+  heading: Skill
   description: Comming soon
 main:
   heading: メイン
