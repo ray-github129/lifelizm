@@ -18,6 +18,10 @@ intro:
       text: Trip
     - image: /img/meeting-space.png
       text: Othor
+    - image: /img/coffee-gear.png
+      text: Buy
+    - image: /img/coffee-gear.png
+      text: Things
   heading: Skill
   description: Comming soon
 main:
